@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iGSEDCMuZ/sGyj1sn7YgfTItVEI6fRUigHNlyJbY6Oc1Llnn1MuUCfnf9YpwRmI6cI1CldCcBmohNC6ifM3/IQ==",
+  "success": true,
+  "projectFilePath": "/home/sapphie/Documents/projects/coffee-mod/coffee-mod.csproj",
+  "expectedPackageFiles": [
+    "/home/sapphie/.nuget/packages/pathoschild.stardew.modbuildconfig/4.1.1/pathoschild.stardew.modbuildconfig.4.1.1.nupkg.sha512",
+    "/home/sapphie/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/sapphie/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
